@@ -17,6 +17,12 @@ git checkout branchName
 ~~~
  Hier können alle täglichen Befehle angewendet werden.
 
+
+# Nur Gott weiß was das ist
+~~~bash
+ich habe keine ahnung aber ich möchte etwas schreiben. Das ist mein erster Versuch eine .md (markdown) Datei zu bearbeiten und verschiedene Sachen zu erstellen in er Datei.
+~~~
+
 # Einen commit aus anderem Branch in den aktuellen Branch übertragen (z.B. Bugfix)
 ~~~bash
 git checkout branchName
